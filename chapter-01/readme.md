@@ -1,4 +1,4 @@
-# Chapter 1 comments
+# 1. "Hello World" comments
 
 ## 1 - Hello world
 * `rustc` to generate an executable
@@ -16,14 +16,14 @@
 * The fact that the precision can be also a parameter makes things a bit difficult to understand.
 
 
-## 1.2.1 - Debug
+### 1.2.1 - Debug
 * The syntax for including traits seems ... too special. I would have done something along the lines of:
 
     struct Structure(i32): Debug
 
-## 1.2.2 - Display
+### 1.2.2 - Display
 
-## 1.2.2.1 - Testcase: List
+#### 1.2.2.1 - Testcase: List
 
 ### 1.2.3 - Formatting
 
